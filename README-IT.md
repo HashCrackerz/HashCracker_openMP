@@ -5,6 +5,7 @@
 # HashCracker (OpenMP)
 ## _Parallel SHA-256 Brute Force & Dictionary (salted) Password Cracker_
 
+[🇬🇧 English](README.md) | [🇮🇹 Italiano](README-IT.md)
 
 ![alt text](https://img.shields.io/badge/Language-C++/OpenMP-green)
 

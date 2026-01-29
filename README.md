@@ -1,0 +1,1 @@
+# HashCracker_openMP

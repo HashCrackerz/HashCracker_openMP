@@ -1,0 +1,20 @@
+Running with OMP_NUM_THREADS=48 ...
+========================================
+./bruteforce_omp Starting OpenMP Brute Force...
+Target Password: qwerty
+Range lunghezza: 1 - 6
+Charset len: 67
+========================================
+
+--- Inizio Test Brute Force OpenMP ---
+Numero max threads OpenMP: 48
+Tentativo lunghezza 1... Nessuna corrispondenza.
+Tentativo lunghezza 2... Nessuna corrispondenza.
+Tentativo lunghezza 3... Nessuna corrispondenza.
+Tentativo lunghezza 4... Nessuna corrispondenza.
+Tentativo lunghezza 5... Nessuna corrispondenza.
+Tentativo lunghezza 6... TROVATA!
+Password decifrata: qwerty
+Tempo Totale: 119.3784 secondi
+------------------------------------------------
+Test Completati.

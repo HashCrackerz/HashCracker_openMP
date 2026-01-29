@@ -1,0 +1,22 @@
+Target Pass: erty | Salt: qw | Dizionario: si
+-----------------------------------------------------------
+Running with OMP_NUM_THREADS=48 ...
+========================================
+./estensione_omp Avvio estensione OpenMP ...
+Target Password: erty
+Salt applicato : qw
+Stringa target : qwerty (Hash calcolato)
+Dizionario     : SI (ASSETS/rockyou_trimmed.txt)
+========================================
+
+
+Attacco a Dizionario + Generazione Salt...
+Dizionario caricato: 14343504 parole.
+*** PASSWORD TROVATA (Dizionario) ***
+
+Stringa Totale trovata: qwerty
+Schema rilevato: [SALT] + [PASSWORD]
+*** PASSWORD DECIFRATA: erty ***
+Tempo Totale: 6.5544 s
+-----------------------------------------------------------
+Tutti i test completati.

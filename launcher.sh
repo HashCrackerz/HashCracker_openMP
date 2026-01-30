@@ -34,7 +34,7 @@ CHARSET="ASSETS/CharSet.txt"
 
 # --- CICLO DI TEST SUI THREAD ---
 # Testiamo diverse configurazioni di thread per vedere lo speedup
-for P in 1 2 4 8 16 24 32 48; do
+for P in 48; do
     export OMP_NUM_THREADS=$P
     
     echo "Running with OMP_NUM_THREADS=$P ..."
